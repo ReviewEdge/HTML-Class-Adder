@@ -1,0 +1,19 @@
+/**Lesson Components**/
+
+.les-body {width: 800px; margin: auto; padding: 12px; font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+	
+.les-h3 {font-size: 25px; margin-bottom : 9px;}
+
+.les-p {font-size: 18px; line-height: 1.8;}
+	
+.les-att {font-style:italic; font-weight: 300; color:rgba(75,75,69,1.00);}
+	
+.les-a {text-decoration: none; color:rgba(36,75,222,1.00);}
+	
+.les-vid-ti {font-size: 20px; display: table; margin-bottom: 12px;}
+	
+.les-iframe {margin-bottom: 12px;}
+    
+.les-hr {border: 0.5px;  border-style: inset; border-color:lightgrey; background-color:lightgrey;}
+    
+.les-pic-ti {font-style:italic; 17px; display: table; margin-bottom: 12px; color:grey;}
