@@ -54,7 +54,6 @@ for char in html_list:
                 check_element_word = ""
                 for i in check_element_word_list:
                     check_element_word += i
-                #
 
                 if check_element_word == element:
 
